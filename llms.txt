@@ -23,6 +23,9 @@
 - [Trusted Plumber Wheat Ridge for Your Home](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/trusted-plumber-wheat-ridge/): Trusted Plumber Wheat Ridge for clear answers about plumbing concerns. Call Marvin's Plumbing & Water Heaters in Wheat Ridge any time, day or night.
 - [Experienced Plumber Wheat Ridge for Clear Next Steps](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/experienced-plumber-wheat-ridge/): Experienced Plumber Wheat Ridge for a careful assessment and next steps. Call Marvin's Plumbing & Water Heaters in Wheat Ridge any time, day or night.
 
+## Newsroom
+- [Marvin's Plumbing Shares Wheat Ridge Plumber Guide in Multiple Formats](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/news/2026-11-12-marvin-s-plumbing-shares-wheat-ridge-plumber-guide/): Marvin's Plumbing & Water Heaters published a Wheat Ridge Plumber guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-12)
+
 ## Pages
 - [Wheat Ridge Plumber in Colorado](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/): Get help with plumbing needs from a local business serving Wheat Ridge, Colorado. Call +1970-373-0492.
 - [About Marvin's Plumbing & Water Heaters](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/about/): About Marvin's Plumbing & Water Heaters, Wheat Ridge.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/marvin-s-plumbing-and-water-heaters-wheat-ridge/news/rss.xml)
 - [Main resource site](https://marvins-wheat-ridge-plumbing.localbusinesses1.chatgpt.site)
